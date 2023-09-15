@@ -15,8 +15,15 @@
         - Validação da request (Create)
 
 ### - Conexão com a base de dados + salvamento dos dados (Sugestão typeorm)
+    Aula 15/09/2023
+        - Instalação TypeOrm
+        - Conexão com banco de dados local
+        - Criação de registro via request
 
 ### - Documentação (Sugestão swagger)
+    Aula 15/09/2023
+        - Instalação do Swagger
+        - Conhecendo parametros da documentação
 
 ### - Criação de testes automatizados
 
