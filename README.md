@@ -25,8 +25,13 @@
         - Instalação do Swagger
         - Conhecendo parametros da documentação
 
+### - Conexão com aws(s3, sqs, etc...)
+    Aula 27/10/2023
+        - Renomeamos modulo de Access para User
+        - Preparamos o container Localstack
+        [...] Falta usar os serviços AWS.
+
 ### - Criação de testes automatizados
 
-### - Conexão com aws(s3, sqs, etc...)
 
 ### - Criação de logs da aplicação padrão RFC MM + NR
